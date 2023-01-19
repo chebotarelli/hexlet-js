@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-js-npm",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "test npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chebotarelli/hexlet-js.git"
+  },
+  "author": "chebotarelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chebotarelli/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/chebotarelli/hexlet-js#readme"
+}
